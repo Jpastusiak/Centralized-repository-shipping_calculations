@@ -1,4 +1,5 @@
 # Shipping Cost Calculator
+# Here is a new update by Julia Fragale!
 
 
 ## Input package weight and shipping rate
